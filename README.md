@@ -1,6 +1,10 @@
 hermanworm
 ==========
 
-3d printed worm head part intended to be stuck to a original metal slinky to make a rad worm 'puppet'.
+3d printed worm head part intended to superglued to a original metal slinky
 
-for storytime durability's sake, slice with 4+ perimeters, 3+ bottom solid layers, and hella infill.
+why?
+
+because it makes a rad worm puppet to go along with the 'herman the worm' storytime song
+
+for durability's sake, slice with 4+ perimeters, 3+ bottom solid layers, and hella infill but you don't have to listen to me i'm not the boss of you
